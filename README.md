@@ -1,4 +1,4 @@
-# Data-Base-Design
+# Database-Design
 
 ## Objective
 To explore the associations of individual health status and transportation in the New York City.
